@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IPO2HuertasHurtado</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblSeleccionado">Ciudad seleccionada:</string>
+    <string name="lblHoy">Hoy</string>
+
+    <string name="menuAcercaDe">Acerca de...</string>
+
+    <string name="menuContextEditar">Editar información</string>
+    <string name="menuContextBorrarCiudad">Borrar ciudad</string>
+    <string name="lblNCiudad">Ciudad:</string>
+    <string name="lblTiempo">Tiempo:</string>
+    <string name="lblTempMax">Temp Max:</string>
+    <string name="lblTempMin">Temp Min:</string>
+    <string name="lblLluvia">Precipitaciones:</string>
+    <string name="lblViento">Viento:</string>
+    <string name="btnGuardarPrediccion">Guardar Predicción</string>
+</resources>

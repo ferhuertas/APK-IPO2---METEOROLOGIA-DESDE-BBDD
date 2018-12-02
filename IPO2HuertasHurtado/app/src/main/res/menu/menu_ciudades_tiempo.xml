@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.ipo2.ipo2huertashurtado.CiudadesTiempo">
+
+    <item android:id="@+id/acercaDe"
+        android:title="@string/menuAcercaDe"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="always"
+        />
+</menu>
